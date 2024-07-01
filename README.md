@@ -1,0 +1,1 @@
+This was a project recommended to become familiar with using HTML, CSS, and Javascript. I tried to make it my own by adding different CSS elements outside of the baseline prompt of creating document with different colored squares that would change by clicking a button.
